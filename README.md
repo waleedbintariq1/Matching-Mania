@@ -14,3 +14,6 @@ A take on the popular game Candy Crush. Developed using C++ and displayed on the
 1. Colors
 2. Timer
 3. High score saved
+
+![image](https://user-images.githubusercontent.com/31804051/121806920-49ffcd00-cc6b-11eb-8b13-5b7bdf0521ec.png)
+
